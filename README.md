@@ -1,6 +1,6 @@
 # localozation_with_getx
 
-A new Flutter project.
+![](demo.gif)
 
 ## Getting Started
 
